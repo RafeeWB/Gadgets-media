@@ -1,0 +1,54 @@
+.see-all{
+    text-decoration:none;
+    color: darkorange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+} 
+.cat1{
+    border: 0px solid red;
+    border-radius: 25px 5px;
+    padding: 15% 10%;
+    margin-left: 21%;
+}
+.cat2{
+    border: 0px solid red;
+    border-radius: 25px 5px;
+    padding: 15% 10%;
+    margin-top: 6%;
+    margin-left: 21%;
+}
+.cat3{
+    border: 0px solid red;
+    border-radius: 5px 25px;
+    padding: 15% 10%;
+    margin-left: 51%;
+}
+.categories{
+    margin-top: 7%;
+    height: 580px;
+}
+.categories2{
+    padding-top: 50px;
+}
+.head{
+    margin-top: 2%;
+}
+.head2{
+    margin-top: 5%;
+}
+.head3{
+    margin-top: 7%;
+}
+.smartphone{
+    margin-bottom: 2%;
+}
+.footer{
+    margin-top: 3%;
+    text-align: center;
+}
+.murgi{
+    text-underline-offset: 10px;
+    color:#586fa4;
+}
